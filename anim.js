@@ -4,12 +4,14 @@ var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
-  { text: "Hoy me siento afuera del planeta", time: 24 },
-  { text: "Y no puedo respirar muy bien", time: 28 },
-  { text: "No están tus labios donde los dejé", time: 30 },
-  { text: "No fue la vida como la soñamos", time: 33 },
-  { text: "Recuerdo el día en el que te besé", time: 40 },
-  { text: "Yo estaba loco, pero tú también", time: 44 },
+  { text: "So I'ma love you", time: 2 },
+  { text: "every night like it's", time: 3 },
+  { text: "the last night", time: 4 },
+  { text: "perdonenme todos", time: 5 },
+  { text: "Like it's the last night", time: 6 },
+  { text: "no asecto", time: 7 },
+  { text: "If the world was ending", time: 8 },
+  { text: "I'd wanna be next to you", time: 9 },
   { text: "Todo brillaba, tus ojos, tu pelo", time: 45 },
   { text: "Todo se movía a mi alrededor y no sabía que hacer", time: 48 },
   { text: "No sabía si besarte o salir a correr", time: 53 },

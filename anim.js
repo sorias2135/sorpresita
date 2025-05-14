@@ -4,14 +4,7 @@ var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
-  { text: "So I'ma love you", time: 2 },
-  { text: "every night like it's", time: 3 },
-  { text: "the last night", time: 4 },
-  { text: "perdonenme todos", time: 5 },
-  { text: "Like it's the last night", time: 6 },
-  { text: "no asecto", time: 7 },
-  { text: "If the world was ending", time: 8 },
-  { text: "I'd wanna be next to you", time: 9 },
+
 ];
 
 // Animar las letras
